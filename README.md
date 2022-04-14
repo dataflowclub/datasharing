@@ -1,4 +1,10 @@
-How to share data with a statistician
+<center>
+<i>Real datasets can, and often do, violate the three precepts of tidy data in almost every way imaginable</i><br>
+  <small>Tidy Data<br>
+Hadley Wickham</small>
+<center><br><br><br><br>
+  
+How to share data
 ===========
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
